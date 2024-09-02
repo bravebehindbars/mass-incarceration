@@ -1,0 +1,41 @@
+body 
+{
+	background-color: whitesmoke;
+
+}
+
+h1 {
+	color: black;
+	border: black;
+	background-color: lightgrey;
+
+}
+
+ul {
+	background-color: lightgrey;
+	background-size: 90%;
+
+}
+
+{
+	width: 90%;
+	margin: 0 auto ;}
+
+	#content {overflow: auto;}
+	#nav. #feautre. #footer {
+		margin: 1%;}
+	.column1, .column2, .column3, .column4,  {
+		width: 50%;
+		float: left;
+		margin: 50%;}
+	.column4 {margin-right: 0%;}
+	li {
+		display: inline;
+		padding: 0.5em;}
+	#nav. #footer {
+		background-color: #efefef;
+		padding: 0.5em 0;}
+	#feautre, .article {
+		height: 30em; 
+		margin-bottom: lem;
+		background-color: #efefef;}
